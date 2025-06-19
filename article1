@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Article_1</title>
+</head>
+<body>
+  <div class="entry-meta">
+    <a class="entry-date published">December 7, 2020</a>
+  </div>
+
+  <h1>Заголовок</h1>
+  <p>Контент статьи…</p>
+</body>
+</html>
